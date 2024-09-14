@@ -4,6 +4,6 @@ print("THIS IS ABOUT ME.")
 print("Name:            Anuj Kumar"
       "Mob_No:          822xxxx981"
       "Email:           anujkumarcse2025@scteng.co.in"
-      "Location:         38, SAran,Bihar- 841101"
+      "Location:        38, SAran,Bihar- 841101"
 )
 qr_image.save("qr_image.jpg")
